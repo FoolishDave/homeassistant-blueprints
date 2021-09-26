@@ -5,7 +5,7 @@ blueprint:
   domain: automation
   input:
     inovelli_switch:
-      name: Inovelli Dimmer
+      name: Inovelli Switch
       description: List of available inovelli LZW30-SN switches.
       selector:
         device:
